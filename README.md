@@ -14,6 +14,7 @@ The notebook `heart-attack-prediction-5d678a.ipynb` covers the full machine lear
    - Prints dataset statistics, data types, and value counts for key variables.
    - Verifies that there are no missing values.
    - Builds visualizations:
+   
      - correlation heatmap
      - count plots for sex and heart disease occurrence
      - distribution plots for age and BMI by heart disease label
